@@ -1,2 +1,2 @@
 # Robot-Sokoban
-A clone of Sokoban game
+A developed version of Sokoban game
