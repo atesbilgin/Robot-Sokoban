@@ -6,5 +6,5 @@ CS102 Project
 
 
 Developers
-  Ateş Bilgin
-  Serkan Delil
+-Ateş Bilgin
+-Serkan Delil
